@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import login from '~/components/user/login.vue'
+import login from '../components/user/login.vue'
 export default {
   name: 'IndexPage',
   layout: 'login',
